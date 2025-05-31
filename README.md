@@ -5,7 +5,7 @@ Welcome to a data storytelling project exploring every dice roll made during *Cr
 ## Project Structure
 - `Critical-role-EDA.ipynb` – Exploratory notebook used for cleaning, structuring, and analysing roll data
 - `critical-role-dashboard.py` – Streamlit dashboard with animated radar charts, dynamic filters, and custom character insights
-- `CritRole_M9_allRolls.csv` – Raw dataset including every roll from Campaign 2, manually cleaned and tagged (Source: https://www.critrolestats.com/stats-wm)
+- `CritRole_M9_allRolls.csv` – Raw dataset including every roll from Campaign 2 (Source: https://www.critrolestats.com/stats-wm)
 
 ## Features
 - **Roll breakdowns**: Nat 1s, Nat 20s, roll type distribution
