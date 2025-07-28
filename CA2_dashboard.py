@@ -292,4 +292,4 @@ st.markdown("- The pacing of rolls shows spikes during major arc finales.")
 
 # ==== FOOTER ====
 st.markdown("---")
-st.caption("Nicole Gunther Guerrero | ID: 23202583 | UCD Interactive Dashboards Python | 2025")
+st.caption("Nicole Gunther Guerrero | UCD Interactive Dashboards Python | 2025")
